@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a basic Chrome plugin, which redirects you to the subdomain smile.amazon.com everytime you visit amazon.com. The plugin should support additional local domains such as .co.uk.
+This is a basic Chrome plugin, which redirects you to the subdomain smile.amazon.com every time you visit amazon.com. The plugin should support additional local domains such as .co.uk.
 
 ## Benefit
 
